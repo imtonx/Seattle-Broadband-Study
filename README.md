@@ -1,5 +1,6 @@
 # Seattle Broadband Speeds Study
-A study on Seattle's broadband speed data
+A study on Seattle's broadband speed data as provided by the City of Seattle's public database.<br>
+Link to City of Seattle's Kaggle page: https://www.kaggle.com/city-of-seattle/seattle-broadband-speed-test<br>
 
 Knowing if an ISP is giving us the speeds we deserve is simple. We just need to answer these 3 questions:<br>
 **What and how much are people paying for?**<br>
