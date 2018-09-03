@@ -1,4 +1,4 @@
-# Seattle Broadband Study
+# Seattle Broadband Speeds Study
 A study on Seattle's broadband speed data
 
 Knowing if an ISP is giving us the speeds we deserve is simple. We just need to answer these 3 questions:
